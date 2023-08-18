@@ -2,7 +2,6 @@
 
 Rama principal del proyecto, donde se encuentra el código estable y listo para producción.
 
- Resumen Ejecutivo
 
 ## Descripción
 
