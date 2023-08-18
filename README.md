@@ -2,7 +2,7 @@
 
 Rama principal del proyecto, donde se encuentra el código estable y listo para producción.
 
-# Afilados 2000 - Resumen Ejecutivo
+Resumen Ejecutivo
 
 ## Descripción
 
