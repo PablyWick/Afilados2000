@@ -75,8 +75,6 @@ Implementa la aplicación: git push heroku master
 ## Configuración del Producto
 Edita los archivos de configuración según sea necesario, como src/main/resources/application.properties para ajustar la configuración de la base de datos y otras propiedades.
 
-# Afilados 2000
-
 ## Uso
 
 ### Usuario Final
